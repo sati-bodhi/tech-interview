@@ -1,0 +1,2 @@
+pypexels==1.0.0rc1
+requests==2.27.1
